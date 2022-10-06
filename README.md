@@ -1,5 +1,5 @@
 # Python-lambda-functions-and-classes
-## creator: Angela Villasanta
+### creator: Angela Villasanta
 Hello world! This is my first repository. I am sharing to you an old assignment submission for my Python class.
 
 These are 5 separate exercises, each written out in markdown cells / text not in code. Each one is followed by my own solution, written in a code cell.
