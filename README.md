@@ -6,9 +6,9 @@ These are 5 separate exercises, each written out in markdown cells / text not in
 
 They are about as follows:
   1. Using a lambda expression to perform multiplication
-  2. Importing math module
+  2. Importing math module specifically pi
   3. Building a simple calculator using 1 function
-  4. Define a class named Rectangle (computes the area)
-  5. Define a superclass named Shape and a subclass named Square (computes the area of a square and identifies the shape)
+  4. Defining a class named Rectangle (computes the area)
+  5. Defining a superclass named Shape and a subclass named Square (computes the area of a square and identifies the shape)
   
   That is all. Thank you.
